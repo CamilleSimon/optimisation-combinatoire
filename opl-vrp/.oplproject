@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<configs>
+		<config default="true" name="Configuration 1" category="opl">
+			<ref name="VRP.mod" type="model">
+			</ref>
+			<ref name="VRP.ops" type="setting">
+			</ref>
+			<ref name="VRP.dat" type="data">
+			</ref>
+		</config>
+	</configs>
+	
+</project>
